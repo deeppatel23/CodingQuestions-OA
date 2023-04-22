@@ -26,6 +26,8 @@ Ip
 0 0 0
 OP: 2
 
+
+Video: https://youtu.be/c_FbQ3skMu8
 */
 
 #include<bits/stdc++.h>
