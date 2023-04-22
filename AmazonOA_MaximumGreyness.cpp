@@ -66,5 +66,5 @@ int main() {
     return 0;
 }
 
-//TC: O(N+M)
-//SC: O(N*M)
+//TC: O(N*M)
+//SC: O(N+M)
