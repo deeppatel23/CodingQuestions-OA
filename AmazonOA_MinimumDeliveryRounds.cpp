@@ -9,11 +9,11 @@ you can take 3 boxes of same weight in one round
 You have to find the minimum number of rounds to deliver the boxes or -1 if it is not possible to deliver them.
 
 Example cases -
-Input: boxes - [2, 2, 3, 3, 2, 4, 4, 4, 4, 4]
+Input: n = 10 boxes - {2 2 3 3 2 4 4 4 4 4}
 Output: 4
 Explanation: 3 boxes of weight 2 in 1st round, 2 boxes of weight 3 in 2nd round, 3 boxes of wt 4 in 3rd and 2 boxes of wt 4 in 4th round.
 
-Input: boxes - [2, 3, 3]
+Input: n = 3 boxes - {2 3 3}
 Output: -1
 Explanation: There is only one box with weight 2 and we can only take either 2 or 3 boxes in one round not lesser.
 
