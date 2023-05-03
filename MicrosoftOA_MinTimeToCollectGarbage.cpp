@@ -1,4 +1,5 @@
 /*
+https://leetcode.com/discuss/interview-question/2305542/Microsoft-Online-Assessment
 Got this question in microsoft OA round:
 
 A garbage truck collects plastic, metal and glass garbages(one at a time) from N houses. Array D consists of time taken by the truck to carry a particular garbage from ith house. Array T consists of string values(M -> Metal, G -> Glass, P -> Plastic) stating the type of garbages present in ith house.
